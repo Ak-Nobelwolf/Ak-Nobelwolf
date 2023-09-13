@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on myself
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on React Project
 - 📫 How to reach me: akshaytadakod@gmail.com
 
 ## 🌐 Socials:
@@ -28,12 +27,6 @@ I’m currently working on myself
 ![](https://github-readme-stats.vercel.app/api?username=Ak-Nobelwolf&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ak-Nobelwolf&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Nobelwolf&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ak-Nobelwolf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ak-Nobelwolf&icon=0&color=11)](https://visitcount.itsvg.in)
