@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently working on React Project
-- 📫 How to reach me: akshaytadakod@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaytadakod/) 
