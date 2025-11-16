@@ -160,7 +160,6 @@ const akshay = {
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-nobelwolf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ak-nobelwolf&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
 </p>
 
 </div>
