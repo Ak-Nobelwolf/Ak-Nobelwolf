@@ -46,12 +46,12 @@ I enjoy turning complex problems into software that is understandable, useful, a
 
 | Project | What it demonstrates |
 | --- | --- |
-| [RiskSense AI](https://github.com/Ak-Nobelwolf/RiskSense-AI) | Python, FastAPI, Gemini, BigQuery, Google Cloud, and Cloud Run for environmental risk intelligence. → [Live demo](https://risksense-ai-a5amadekoq-el.a.run.app) |
 | [AARAKSHAKA](https://github.com/Ak-Nobelwolf/aarakshaka) | React, Flask, LLMs, bilingual analytics, maps, network graphs, and 3D visualization. → [Live demo](https://aarakshaka-kar.onslate.in) |
 | [Excel Compare](https://github.com/Ak-Nobelwolf/Excel-Compare) | Java 17, Apache POI, Vite, Docker, Nginx, and Tomcat for reliable workbook comparison. |
 | [Weight Tracker](https://github.com/Ak-Nobelwolf/weight-tracker) | React, TypeScript, local-first data handling, charts, and Oracle Cloud deployment. → [Live demo](https://weight.nobelwolf.gleeze.com) |
-| [News-Quasar](https://github.com/Ak-Nobelwolf/News-Quasar) | React news aggregator over the Currents API — 70+ countries, 17 categories, instant search, bookmarks, dark mode, offline backup. → [Live demo](https://ak-nobelwolf.github.io/News-Quasar/) |
-| [Mini-NPX](https://github.com/Ak-Nobelwolf/Mini-NPX) | C# / Avalonia (.NET 8) bioinformatics QC — CSV to log2 NPX with Westgard-style rules and auditable run history. |
+| [News-Quasar](https://github.com/Ak-Nobelwolf/News-Quasar) | React news aggregator over the Currents API, 70+ countries, 17 categories, instant search, bookmarks, dark mode, offline backup. → [Live demo](https://ak-nobelwolf.github.io/News-Quasar/) |
+| [Mini-NPX](https://github.com/Ak-Nobelwolf/Mini-NPX) | C# / Avalonia (.NET 8) bioinformatics QC, CSV to log2 NPX with Westgard-style rules and auditable run history. |
+| [RiskSense AI](https://github.com/Ak-Nobelwolf/RiskSense-AI) | Python, FastAPI, Gemini, BigQuery, Google Cloud, and Cloud Run for environmental risk intelligence. |
 
 ---
 
@@ -104,6 +104,7 @@ I enjoy turning complex problems into software that is understandable, useful, a
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>Figma</td>
+    <td align="center" width="96"><img src="assets/oracle.svg" width="48" height="48" alt="Oracle Cloud" /><br>Oracle Cloud</td>
 </tr>
 </table>
 
@@ -115,29 +116,25 @@ I enjoy turning complex problems into software that is understandable, useful, a
 
 ## 🏆 Certifications
 
+![Agentic AI Certified Foundations Associate](https://img.shields.io/badge/Agentic_AI_Certified_Foundations_Associate-F80000?logo=oracle&logoColor=white)
 <br>
-
-![Oracle PLM 2025 Certified Implementation Professional](https://img.shields.io/badge/Oracle_PLM_2025_Certified_Implementation_Professional-Jul_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Fusion AI Agent Studio Certified Developer Professional - Rel 1](https://img.shields.io/badge/Oracle_Fusion_AI_Agent_Studio_Certified_Developer_Professional_-_Rel_1-F80000?logo=oracle&logoColor=white)
 <br>
-![OCI 2025 Certified Application Integration Professional](https://img.shields.io/badge/OCI_2025_Certified_Application_Integration_Professional-Oct_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Cloud Infrastructure 2025 Certified Application Integration Professional](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_Certified_Application_Integration_Professional-F80000?logo=oracle&logoColor=white)
 <br>
-![Oracle Fusion AI Agent Studio Certified Developer Professional](https://img.shields.io/badge/Oracle_Fusion_AI_Agent_Studio_Certified_Developer_Professional-Nov_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_Certified_Generative_AI_Professional-F80000?logo=oracle&logoColor=white)
 <br>
-![Oracle Fusion AI Agent Studio Certified Foundations Associate](https://img.shields.io/badge/Oracle_Fusion_AI_Agent_Studio_Certified_Foundations_Associate-Jul_2025-F80000?logo=oracle&logoColor=white)
+![Oracle AI Vector Search Certified Professional](https://img.shields.io/badge/Oracle_AI_Vector_Search_Certified_Professional-F80000?logo=oracle&logoColor=white)
 <br>
-![Oracle AI Vector Search Certified Professional](https://img.shields.io/badge/Oracle_AI_Vector_Search_Certified_Professional-Oct_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1](https://img.shields.io/badge/Oracle_Fusion_AI_Agent_Studio_Certified_Foundations_Associate_-_Rel_1-F80000?logo=oracle&logoColor=white)
 <br>
-![OCI 2025 Certified Generative AI Professional](https://img.shields.io/badge/OCI_2025_Certified_Generative_AI_Professional-Oct_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Data Platform 2025 Certified Foundations Associate](https://img.shields.io/badge/Oracle_Data_Platform_2025_Certified_Foundations_Associate-F80000?logo=oracle&logoColor=white)
 <br>
-![OCI 2025 Certified AI Foundations Associate](https://img.shields.io/badge/OCI_2025_Certified_AI_Foundations_Associate-Jul_2025-F80000?logo=oracle&logoColor=white)
+![Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_Certified_AI_Foundations_Associate-F80000?logo=oracle&logoColor=white)
 <br>
-![Oracle Data Platform 2025 Certified Foundations Associate](https://img.shields.io/badge/Oracle_Data_Platform_2025_Certified_Foundations_Associate-2025-F80000?logo=oracle&logoColor=white)
+![Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025_Certified_Foundations_Associate-F80000?logo=oracle&logoColor=white)
 <br>
-![OCI 2025 Certified Foundations Associate](https://img.shields.io/badge/OCI_2025_Certified_Foundations_Associate-May_2025-F80000?logo=oracle&logoColor=white)
-<br>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=73A24B9B2D8A7E9AED27434A57E1BBC70849A3EB0DF5D3B4A77FADC1DEE5FCFE"><img src="https://img.shields.io/badge/Oracle_Cloud_Data_Management_2023_Certified_Foundations_Associate-Feb_2024-F80000?logo=oracle&logoColor=white" alt="Oracle Cloud Data Management 2023 Certified Foundations Associate"/></a>
-<br>
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CJVYC4J99JDG"><img src="https://img.shields.io/badge/Meta_Front_End_Developer_Specialization-Oct_2023-0467DF?logo=meta&logoColor=white" alt="Meta Front-End Developer Specialization"/></a>
+![Meta Front-End Developer Specialization](https://img.shields.io/badge/Meta_Front_End_Developer_Specialization-0467DF?logo=meta&logoColor=white)
 
 </div>
 
@@ -147,14 +144,22 @@ I enjoy turning complex problems into software that is understandable, useful, a
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak-nobelwolf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=ak-nobelwolf&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-nobelwolf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" alt="Most used programming languages" />
-</p>
+<table align="center">
+<tr>
+    <td colspan="2" align="center"><img height="200" src="https://streak-stats.demolab.com/?user=ak-nobelwolf&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub contribution streak" /></td>
+</tr>
+<tr>
+    <td colspan="2" align="center"><img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ak-nobelwolf&theme=radical" alt="GitHub profile summary" /></td>
+</tr>
+<tr>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak-nobelwolf&theme=radical" alt="Repos per language" /></td>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ak-nobelwolf&theme=radical" alt="Most committed language" /></td>
+</tr>
+<tr>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ak-nobelwolf&theme=radical" alt="GitHub stats" /></td>
+    <td><img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ak-nobelwolf&theme=radical" alt="Productive time" /></td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ak-Nobelwolf/Ak-Nobelwolf/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
